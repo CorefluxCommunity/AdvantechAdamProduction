@@ -152,7 +152,7 @@ The project publishes messages to specific topics based on the signals received.
 
 The Coreflux MQTT Broker is a robust and scalable solution designed for efficient IoT communication. It supports lightweight messaging, making it ideal for IoT applications due to its low bandwidth usage and efficient data transmission. Coreflux MQTT Broker ensures reliable message delivery with various levels of Quality of Service (QoS) and supports secure communication through TLS/SSL encryption.
 
-For testing purposes, you can use the broker at `iot.coreflux.cloud`. This broker is engineered to handle high message throughput and can be used to develop and test your MQTT applications in a real-world scenario【22†source】【23†source】【24†source】.
+For testing purposes, you can use the broker at `iot.coreflux.cloud`. This broker is engineered to handle high message throughput and can be used to develop and test your MQTT applications in a real-world scenario.
 
 ## Using Advantech Adam 6050 with MQTT
 
