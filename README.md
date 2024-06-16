@@ -156,7 +156,7 @@ For testing purposes, you can use the broker at `iot.coreflux.cloud`. This broke
 
 ## Using Advantech Adam 6050 with MQTT
 
-The Advantech Adam 6050 is a versatile I/O module that supports MQTT connectivity, making it suitable for integrating with IoT systems. This device can publish its I/O status to an MQTT broker, allowing for real-time monitoring and control. By configuring the Adam 6050 to connect to an MQTT broker, you can leverage its data in your IoT applications, ensuring seamless communication and data exchange【25†source】【26†source】.
+The Advantech Adam 6050 is a versatile I/O module that supports MQTT connectivity, making it suitable for integrating with IoT systems. This device can publish its I/O status to an MQTT broker, allowing for real-time monitoring and control. By configuring the Adam 6050 to connect to an MQTT broker, you can leverage its data in your IoT applications, ensuring seamless communication and data exchange.
 
 To set up the Advantech Adam 6050 for MQTT:
 1. Configure the network settings to connect to your local network.
